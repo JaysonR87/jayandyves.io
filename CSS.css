@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h1{
+    color: crimson;
+   
+}
+h2{
+    color: blueviolet;
+   
+}
+body {
+    background-color: pink;
+    background-image: "love.jpg";
+    color: #8E29D8;
+}
+p {
+    color: purple;
+}
+
+a:link {
+    color: blueviolet;
+}
